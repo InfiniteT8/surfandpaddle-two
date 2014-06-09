@@ -1,0 +1,166 @@
+.background-one {
+background-image:url('../images/header.jpg');
+height:400px;
+}
+
+.containerdef {
+	width:960px;
+	margin:auto;
+	color:blue;
+	}
+
+.imageleft {
+float: left;
+margin: 25px 0;
+}
+
+.blogleft {
+float: left;
+margin: 35px 15px;
+}
+
+.blogleft a:link{
+	text-decoration: none;
+}
+
+.containerright {
+	float:right;
+	height:960px;
+	margin:auto;
+	background-color:red;
+}
+
+.imageright {
+	float:right;
+	margin:-19px 8px;
+	}
+
+.aboutright {
+	float:right;
+	font:bold;
+	margin:-358px 130px;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+.aboutright a:link {
+	text-decoration:none;
+}
+
+.seachright {
+	float:right;
+	margin:-600px 48px;
+	position:relative;
+	font-family: 'Droid Sans', sans-serif;
+	font:bold;
+}
+
+.searchright a:link {
+	text-decoration:none;
+}
+
+.headerthingy {
+	font-family: 'Droid Sans', sans-serif;
+	font-size:60px;
+	position:relative;
+	width:542px;
+	color:white;
+	margin:-241px 358px;	
+}
+
+.subtitle {
+	font-family: 'Roboto', sans-serif;
+	font-size:10px;
+	font:bold;
+	top:224px;
+	width:340px;
+	position:relative;
+	color:rgb(28, 28, 94);
+	margin:-180px 535px;	
+}
+
+.block1 {
+	font-family: 'Oswald', sans-serif;
+	font-size:50px;
+	line-height: 0.5;
+	font:bold;
+	color:rgb(12,	39,	65);
+	float:left;
+	height:960px;
+	margin:50px 20px;
+	background-color:transparent;
+}
+
+.block1text{
+	float:left;
+	margin-right:50px;
+	width:11em;
+	position:relative;
+	text-align:left;
+}
+
+.p-small {
+	line-height:50%
+}
+
+
+.pg1 {
+font-family: 'Abel', sans-serif;
+line-height: 0.5;
+float:left;
+color:rgb(86,	96,	101);
+font-size: 16px;
+position:relative;
+margin:-23px 23px;
+}
+
+.avatar-left
+
+.bq1 {
+text-align:justify;
+float:left;
+font-size:30px;
+font:bold;
+color:(13,	78,	160);
+margin:23px 30px;
+font-family: 'Droid Sans', sans-serif;
+}
+
+.read {
+	float:left;
+	margin:23px 50px;
+	background-color:blue;
+}
+
+.read a.link{
+	text-decoration:underline;
+}
+
+.comment {
+float:left;
+margin:0px;	
+}
+
+.comment a.link {
+text-decoration:underline;
+}
+
+.search a:link {
+	text-decoration:underline;
+	}
+
+.share {
+		float:left;
+		margin:0px;
+	}
+
+	.share a.link {
+		text-decoration:underline;
+	}
+
+	.imagelu {
+	float:left;
+	margin-right:50px;
+	width:11em;
+	position:relative;
+	text-align:left;
+	}
