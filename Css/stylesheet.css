@@ -1,0 +1,64 @@
+.background-one {
+background-image:url('../images/header.jpg');
+width: 1300px;
+margin:0;
+height:400px;
+}
+
+.containerdef {
+	width:960px;
+	margin:0 auto;
+	text-align: center;
+	}
+
+img.logo {
+float: left;
+padding-top: 15px;
+}
+
+
+.containerright {
+	padding-top: 15px;
+}
+
+.containerright a:link  {
+	text-decoration: none;
+	color: rgb(10,	39,	63);	
+}
+
+a.blog {
+float: left;
+padding-left:20px;
+padding-top: 25px;
+color:rgb(10,	39,	63);	
+}
+
+a.blog:link{
+	text-decoration: none;
+}
+
+a.aboutright {
+	float: right;
+	padding-right: 15px;
+}
+
+a.searchright {
+	padding-right: 5px;
+	float: right;
+}
+
+img.imageright {
+	float: right;
+}
+
+.header {
+	padding-right:15px;
+	padding-top:116px;
+	font-size:50px;
+	color:white;
+}
+padding-r
+
+
+
+
